@@ -1,0 +1,15 @@
+﻿{
+  "Radical.Presenting.Components.BarcodeReader": {
+    "ButtonScanText": "Escanear",
+    "ButtonStopText": "Fechar",
+    "AutoStopText": "Fech.Autom.",
+    "DeviceLabel": "Camera",
+    "InitDevicesString": "Inicializar ...",
+    "NotFoundDevicesString": "Nenhum dispositivo encontrado"
+  },
+  "Radical.Presenting.Components.QRCode": {
+    "PlaceHolder": "Digite ...",
+    "ClearButtonText": "Limpar",
+    "GenerateButtonText": "Gerar"
+  }
+}

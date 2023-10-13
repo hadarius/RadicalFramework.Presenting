@@ -1,0 +1,19 @@
+﻿@inherits ComponentBase
+@namespace Radical.Presenting.Components
+
+@RenderBody()
+
+<FullScreen />
+<Clipboard />
+<Title />
+<ResizeNotification />
+
+<Message @ref="MessageContainer" />
+<ToastContainer @ref="ToastContainer" />
+
+@code {
+    RenderFragment RenderChildContent =>
+    @<CascadingValue Value="this" IsFixed="true">
+        @ChildContent
+    </CascadingValue>;
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Radical.Presenting.Components.BarcodeReader": {
+    "ButtonScanText": "Scannen",
+    "ButtonStopText": "Schließen",
+    "AutoStopText": "Automatisch schließen",
+    "DeviceLabel": "Kamera",
+    "InitDevicesString": "Initialisiere ...",
+    "NotFoundDevicesString": "Kein Videogerät gefunden"
+  },
+  "Radical.Presenting.Components.QRCode": {
+    "PlaceHolder": "Bitte eingeben ...",
+    "ClearButtonText": "Leeren",
+    "GenerateButtonText": "Generieren"
+  }
+}
